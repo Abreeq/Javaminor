@@ -1,1 +1,1 @@
-This is a java project
+Minor java project KU North Campus.
