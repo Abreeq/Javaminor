@@ -1,1 +1,1 @@
-Minor java project KU North Campus.
+Minor java project 3rd semester KU North Campus.
